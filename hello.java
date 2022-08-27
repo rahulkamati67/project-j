@@ -9,8 +9,6 @@ public class HelloWorld {
 															return "Hello World!";
 																	}
 						}
-	
-	
 
 }package org.jacoco.examples.maven.java;
 
